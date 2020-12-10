@@ -4,6 +4,7 @@
 % Group 3, Travis Chiu, April 24
 % TRAVIS add 'valid' as a variable for games < 1000 turns. then run
 % simulations and collect data
+% Updating code with Joe Gentine, December 2020
 clc; % clear command window
 
 
